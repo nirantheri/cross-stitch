@@ -1,0 +1,12 @@
+use colorthief??
+
+Input number of colors to use
+Input size of image
+resize to that using cv2 (interpolation=nearest)
+grab color palette based on number input before
+
+use euclidean distance to get each pixel's closest color from the palette
+replace based on closest color
+
+replace using set of symbols
+graph to matplotlib
